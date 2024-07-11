@@ -13,6 +13,6 @@ Welcome to the Telegram Quiz Bot! This bot is designed to help users learn progr
 
 ### Technology Stack
 
-- Programming Lamguage: Python
+- Programming Language: Python
 - AI Integration: Google Gemini AI
 - Bot Platform: Telegram
