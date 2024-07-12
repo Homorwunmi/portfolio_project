@@ -13,7 +13,6 @@ telegram_token = os.getenv('TELEGRAM_TOKEN')
 
 # Set base URL for the Telegram Bot API
 base_url = "https://api.telegram.org/bot"
-count = 1  # Initialize a count variable for quiz questions
 
 # Dictionary to store user statistics
 user_stats = {}
