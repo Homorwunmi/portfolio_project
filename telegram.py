@@ -41,7 +41,7 @@ def send_quiz(quiz, chat_id):
         "options": options,
         "correct_option_id": correct_option_id,
         "explanation": explanation,
-        "is_anonymous": False,
+        "is_anonymous": True,
         "type" : "quiz"
     }
 
