@@ -37,7 +37,7 @@ def send_quiz(quiz, chat_id):
     # Construct parameters for the quiz
     parameters = {
         "chat_id" : chat_id,
-        "question": f"🤔💻 *Question {count}:* \n\n{question}",
+        "question": f"🤔💻 *Brain Teaser:*🤔💻 \n\n{question}",
         "options": options,
         "correct_option_id": correct_option_id,
         "explanation": explanation,
