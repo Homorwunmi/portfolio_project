@@ -1,6 +1,6 @@
-## Telegram Quiz Bot
+## Programming Quiz Bot
 
-Welcome to the Telegram Quiz Bot! This bot is designed to help users learn programming through interactive quizzes. Powered by Google Gemini AI, it offers a dynamic and engaging way to enhance your programming skills.
+Welcome to the Programming Quiz Bot! This bot is designed to help users learn programming through interactive quizzes. Powered by Google Gemini AI, it offers a dynamic and engaging way to enhance your programming skills.
 
 
 ### Features
